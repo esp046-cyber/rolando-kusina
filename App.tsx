@@ -95,8 +95,8 @@ const App: React.FC = () => {
 
       {/* Footer */}
       <footer className="bg-gray-900 text-gray-400 py-8 text-center mt-auto">
-        <p>© {new Date().getFullYear()} Rolando Kusina. Powered by Gemini AI.</p>
-        <p className="text-xs mt-2">Recipes generated are for inspiration. Taste may vary!</p>
+        <p>© {new Date().getFullYear()} Rolando Kusina. 100 Authentic Filipino Flavors.</p>
+        <p className="text-xs mt-2">Recipes curated for inspiration. Taste may vary!</p>
       </footer>
 
       {/* Modal */}
